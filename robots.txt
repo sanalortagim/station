@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://acbiradyo.net/sitemap.xml
+Sitemap: http://acbiradyo.net/sitemap.xml
 
 User-agent: *
 Disallow: /iletisim/
